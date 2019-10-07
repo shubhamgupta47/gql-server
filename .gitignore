@@ -1,0 +1,11 @@
+# Ignore paths
+node_modules
+.next
+.DS_Store
+vendor
+docker-utils/data
+docker-utils/logs
+package-lock.json
+.vscode
+.env
+sessions
